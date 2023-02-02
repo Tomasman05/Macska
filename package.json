@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.2.3"
+    "bootstrap": "^5.2.3",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "lite-server": "^2.6.1"
